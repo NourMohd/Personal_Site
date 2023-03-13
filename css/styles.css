@@ -1,0 +1,196 @@
+@media (max-width: 991px) {
+    #Home {
+        text-align: center;
+    }
+
+    #AboutMe {
+        text-align: center;
+    }
+
+    #programming-skills {
+        text-align: center;
+    }
+
+    #contactMe{
+        text-align: center;
+    }
+
+}
+
+
+/* ------------------------------------------ Tag Selectors -------------------------------------- */
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/* -------------------------------------------------ID Selectors --------------------------------*/
+#Home {
+    background-color: #ECE8DD;
+
+}
+
+#AboutMe {
+    background-color: #3A4F7A;
+}
+
+#programming-skills {
+    background-color: #ECE8DD;
+}
+
+#contactMe {
+    background-color: #3A4F7A;
+}
+
+/* -------------------------------------------------Class Selectors --------------------------------*/
+
+/* Containers */
+.container-fluid {
+    padding: 4% 15%;
+}
+
+/* Titles Color */
+.titleColor{
+    color: #8B7E74;
+}
+
+/* ----------------------------------- Home -------------------------------------------*/
+
+
+/* ----navbar-------- */
+
+
+.navbar-brand {
+    color: #3A4F7A;
+    font-family: 'Tourney', cursive;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: #8f8f8f;
+    font-size: 2rem;
+    font-family: 'Fjalla One', sans-serif;
+
+
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.navbar-toggler {
+    color: #8f8f8f;
+}
+
+.nav-botton {
+    color: #8f8f8f;
+}
+
+/* ---------Title Discription ---------------- */
+
+.title-discription {
+    margin-top: 2rem;
+}
+
+.title-text {
+    padding-top: 5rem;
+    line-height: 1.5;
+    font-size: 3.5rem;
+}
+
+.computer-person {
+    height: 600px;
+    padding-left: 5rem;
+}
+.downloadButtons{
+    margin: 2rem 1rem;
+}
+
+/* ----------------------------------- About Me -------------------------------------------*/
+
+
+.about-me-title {
+    margin-top: 5rem;
+    font-size: 4rem;
+
+}
+
+.about-me-text {
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 2rem;
+    line-height: 2rem;
+    font-size: 2rem;
+    color: #ECE8DD;
+}
+
+.my-img {
+    border-radius: 20%;
+}
+
+/* ----------------------------------- Programming Skills -------------------------------------------*/
+
+.skillsTitle{
+    font-size: 3.5rem;
+}
+
+.carousel-inner {
+    text-align: center;
+}
+
+.carousel-control-prev-icon {
+    color: black;
+}
+
+.carousel-item {
+    padding-top: 3%;
+    font-family: 'Pacifico', cursive;
+    font-size: 2.5rem;
+}
+
+.programming-skills-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.projectsTitle{
+    padding-top: 2%;
+}
+
+.projects-text{
+    font-size: 1.25rem;
+}
+
+/* ----------------------------------- Contact ME -------------------------------------------*/
+
+#contactMe .container-fluid {
+    padding: 4% 15% 0.5%;
+    text-align: center;
+    line-height: 4;
+}
+
+.contactMeTitle {
+    font-size: 3rem;
+}
+
+.social-media {
+    margin: auto 3rem;
+    font-size: 1.25rem;
+    color: #ECE8DD;
+    text-decoration: none;
+}
+
+.social-media:hover {
+    color: #8B7E74;
+}
+
+.copyRight {
+    color: #8f8f8f;
+    font-size: 1.2rem;
+}
+.social-icon{
+    margin: auto 0.5rem;
+}
