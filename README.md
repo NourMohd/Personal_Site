@@ -1,3 +1,3 @@
 # Personal_Site
-Using the CSS framework "Bootstrap" 
+Using the CSS Framework "Bootstrap" 
 Here is the URL https://nourmohd.github.io/Personal_Site/
